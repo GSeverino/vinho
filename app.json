@@ -1,0 +1,12 @@
+{
+  "name": "vinho",
+  "displayName": "vinho",
+  "expo": {
+    "name": "vinho",
+    "slug": "vinho",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
